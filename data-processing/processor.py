@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 from py_pdf_parser.loaders import load_file
 from py_pdf_parser.common import BoundingBox
 from xml.etree import cElementTree as et
